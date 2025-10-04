@@ -1,0 +1,6 @@
+[theme]
+base = "dark"
+primaryColor = "deepSkyBlue"
+buttomColor = "deepSkyBlue"
+
+baseRadius="none"
