@@ -53,7 +53,7 @@ def plot_graph(G, visited, title):
 
 # --- Run Simulation ---
 if run_:
-    st.markdown("### Dynamic Network Spread")
+    st.markdown("### Network Visualization")
     colA, colB, colC = st.columns(3)
     ph_reg, ph_smw, ph_rand = colA.empty(), colB.empty(), colC.empty()
 
